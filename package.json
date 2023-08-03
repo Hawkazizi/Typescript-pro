@@ -1,0 +1,22 @@
+{
+  "name": "typescript-pro",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hawkazizi/Typescript-pro.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "shahin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hawkazizi/Typescript-pro/issues"
+  },
+  "homepage": "https://github.com/Hawkazizi/Typescript-pro#readme",
+  "description": ""
+}
